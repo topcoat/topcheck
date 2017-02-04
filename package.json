@@ -1,0 +1,27 @@
+{
+  "name": "topcheck",
+  "version": "0.0.1",
+  "description": "A cli tool to check topcoat components have the required structure.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topcoat/topcheck.git"
+  },
+  "keywords": [
+    "topcoat",
+    "cli",
+    "check"
+  ],
+  "author": "Garth Braithwaite <garthdb@gmail.com> (http://garthdb.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/topcoat/topcheck/issues"
+  },
+  "homepage": "https://github.com/topcoat/topcheck#readme",
+  "devDependencies": {
+    "atomdoc-cli": "^1.0.5"
+  }
+}
