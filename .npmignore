@@ -1,0 +1,7 @@
+src/
+test/
+.*
+coverage
+inch.json
+docs.json
+api.json
